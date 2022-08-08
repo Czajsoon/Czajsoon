@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Czjakowski</h1>
 <h3 align="center">A passionate backend and frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **Finances monitor**
+- 🔭 I’m currently working on [Finances monitor](https://czajsoon.github.io/finances-monitor/strona_domowa)
 
 - 🌱 I’m currently learning **SpringBoot and Angular**
 
